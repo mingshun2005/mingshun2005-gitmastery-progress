@@ -239,5 +239,14 @@
     "completed_at": 1786929113.606309,
     "comments": [],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1786933999.037308,
+    "completed_at": 1786934002.193228,
+    "comments": [
+      "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is not right."
+    ],
+    "status": "Incomplete"
   }
 ]
