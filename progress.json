@@ -1,64 +1,37 @@
 [
   {
-    "exercise_name": "remote-control",
-    "started_at": 1786863467.88218,
-    "completed_at": 1786863589.115971,
+    "exercise_name": "branch-bender",
+    "started_at": 1787499645.246729,
+    "completed_at": 1787499648.780128,
     "comments": [
-      "That is not the right Github url!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1786863618.232729,
-    "completed_at": 1786863635.909747,
-    "comments": [
-      "That is not the right Github url!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1786863826.871584,
-    "completed_at": 1786863840.806452,
-    "comments": [
-      "Great work setting up a public remote repository!"
+      "Great work with merging the branches in order! Try running the HTML files locally!"
     ],
     "status": "Completed"
   },
   {
-    "exercise_name": "link-me",
-    "started_at": 1786865755.434207,
-    "completed_at": 1786865757.027436,
+    "exercise_name": "branch-forward",
+    "started_at": 1787500022.531219,
+    "completed_at": 1787500026.137459,
     "comments": [
-      "Great work with using git remote to add an upstream remote!"
+      "Great job fast-forward merging only 'with-sally'!"
     ],
     "status": "Completed"
   },
   {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1786869440.882075,
-    "completed_at": 1786869446.110523,
+    "exercise_name": "branch-previous",
+    "started_at": 1787495998.89528,
+    "completed_at": 1787496002.555746,
     "comments": [
-      "You are not ignoring ignore_me.txt"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1786869506.592485,
-    "completed_at": 1786869510.174112,
-    "comments": [
-      "Great work using .gitignore!"
+      "Excellent work! You've successfully created branches from a previous commit and explored alternative storylines!"
     ],
     "status": "Completed"
   },
   {
-    "exercise_name": "fork-repo",
-    "started_at": 1786872557.236582,
-    "completed_at": 1786872560.771753,
+    "exercise_name": "branch-previous",
+    "started_at": 1787498280.332933,
+    "completed_at": 1787498284.403375,
     "comments": [
-      "Great work creating a fork with Github!"
+      "Excellent work! You've successfully created branches from a previous commit and explored alternative storylines!"
     ],
     "status": "Completed"
   },
@@ -99,20 +72,244 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "view-commits",
-    "started_at": 1786885827.65306,
-    "completed_at": 1786885830.820327,
+    "exercise_name": "fork-repo",
+    "started_at": 1786872557.236582,
+    "completed_at": 1786872560.771753,
     "comments": [
-      "Answer for In February, who was replaced in the Wednesday duty roster? is not right."
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786928558.263304,
+    "completed_at": 1786928562.004246,
+    "comments": [
+      "There are no grocery list items removed from the shopping list."
     ],
     "status": "Incomplete"
   },
   {
-    "exercise_name": "view-commits",
-    "started_at": 1786885886.276168,
-    "completed_at": 1786885887.719134,
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786928623.785339,
+    "completed_at": 1786928626.37011,
     "comments": [
-      "Great work in viewing and understanding the diff of a specific commit!"
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1786869440.882075,
+    "completed_at": 1786869446.110523,
+    "comments": [
+      "You are not ignoring ignore_me.txt"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1786869506.592485,
+    "completed_at": 1786869510.174112,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1786865755.434207,
+    "completed_at": 1786865757.027436,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1786929111.914959,
+    "completed_at": 1786929113.606309,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1786927509.789752,
+    "completed_at": 1786927514.176102,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1786863467.88218,
+    "completed_at": 1786863589.115971,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1786863618.232729,
+    "completed_at": 1786863635.909747,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1786863826.871584,
+    "completed_at": 1786863840.806452,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1786936712.248099,
+    "completed_at": 1786936716.135823,
+    "comments": [
+      "Answer for What's sum of values in west.csv on Jan 09th? is not right.",
+      "Answer for What's sum of values in north.csv on Jan 05th? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1786946359.08356,
+    "completed_at": 1786946360.544709,
+    "comments": [
+      "Great work traversing the revision history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1786933999.037308,
+    "completed_at": 1786934002.193228,
+    "comments": [
+      "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1786934113.473921,
+    "completed_at": 1786934115.12546,
+    "comments": [
+      "Great work comparing commits in git history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1786950520.391149,
+    "completed_at": 1786950522.4114,
+    "comments": [
+      "You have reset the repository to the correct state!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-revert",
+    "started_at": 1786952115.138916,
+    "completed_at": 1786952116.976365,
+    "comments": [
+      "Good work reverting commits!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787498635.187116,
+    "completed_at": 1787498638.964194,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787498696.632431,
+    "completed_at": 1787498704.513611,
+    "comments": [
+      "You aren't currently on the main branch. Checkout to that branch and try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787498871.099613,
+    "completed_at": 1787498875.667805,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787499094.030745,
+    "completed_at": 1787499102.080474,
+    "comments": [
+      "You aren't currently on the main branch. Checkout to that branch and try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787499176.146247,
+    "completed_at": 1787499184.012513,
+    "comments": [
+      "You aren't currently on the main branch. Checkout to that branch and try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787499270.212101,
+    "completed_at": 1787499276.312263,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787501475.995456,
+    "completed_at": 1787501483.934164,
+    "comments": [
+      "You aren't currently on the main branch. Checkout to that branch and try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787501572.604818,
+    "completed_at": 1787501577.197035,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1786927823.393715,
+    "completed_at": 1786927825.000552,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1786928336.664281,
+    "completed_at": 1786928338.542235,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
     ],
     "status": "Completed"
   },
@@ -135,15 +332,6 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "tags-update",
-    "started_at": 1786891114.891508,
-    "completed_at": 1786891117.047881,
-    "comments": [
-      "Great work! You have successfully updated the tags to point to the correct commits."
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "tags-push",
     "started_at": 1786891453.898912,
     "completed_at": 1786891460.396619,
@@ -158,6 +346,15 @@
     "completed_at": 1786891780.982038,
     "comments": [
       "Wonderful! You have successfully synced the local tags with the remote tags!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-update",
+    "started_at": 1786891114.891508,
+    "completed_at": 1786891117.047881,
+    "comments": [
+      "Great work! You have successfully updated the tags to point to the correct commits."
     ],
     "status": "Completed"
   },
@@ -189,109 +386,20 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "push-over",
-    "started_at": 1786927509.789752,
-    "completed_at": 1786927514.176102,
+    "exercise_name": "view-commits",
+    "started_at": 1786885827.65306,
+    "completed_at": 1786885830.820327,
     "comments": [
-      "Great work pushing changes to the remote!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "stage-fright",
-    "started_at": 1786927823.393715,
-    "completed_at": 1786927825.000552,
-    "comments": [
-      "Great work! You have successfully checked in all the actors!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "staging-intervention",
-    "started_at": 1786928336.664281,
-    "completed_at": 1786928338.542235,
-    "comments": [
-      "Great work! You have successfully fixed the attendance system!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "grocery-shopping",
-    "started_at": 1786928558.263304,
-    "completed_at": 1786928562.004246,
-    "comments": [
-      "There are no grocery list items removed from the shopping list."
+      "Answer for In February, who was replaced in the Wednesday duty roster? is not right."
     ],
     "status": "Incomplete"
   },
   {
-    "exercise_name": "grocery-shopping",
-    "started_at": 1786928623.785339,
-    "completed_at": 1786928626.37011,
+    "exercise_name": "view-commits",
+    "started_at": 1786885886.276168,
+    "completed_at": 1786885887.719134,
     "comments": [
-      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "log-and-order",
-    "started_at": 1786929111.914959,
-    "completed_at": 1786929113.606309,
-    "comments": [],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "sensors-diff",
-    "started_at": 1786933999.037308,
-    "completed_at": 1786934002.193228,
-    "comments": [
-      "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is not right."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "sensors-diff",
-    "started_at": 1786934113.473921,
-    "completed_at": 1786934115.12546,
-    "comments": [
-      "Great work comparing commits in git history!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "sensors-checkout",
-    "started_at": 1786936712.248099,
-    "completed_at": 1786936716.135823,
-    "comments": [
-      "Answer for What's sum of values in west.csv on Jan 09th? is not right.",
-      "Answer for What's sum of values in north.csv on Jan 05th? is not right."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "sensors-checkout",
-    "started_at": 1786946359.08356,
-    "completed_at": 1786946360.544709,
-    "comments": [
-      "Great work traversing the revision history!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "sensors-reset",
-    "started_at": 1786950520.391149,
-    "completed_at": 1786950522.4114,
-    "comments": [
-      "You have reset the repository to the correct state!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "sensors-revert",
-    "started_at": 1786952115.138916,
-    "completed_at": 1786952116.976365,
-    "comments": [
-      "Good work reverting commits!"
+      "Great work in viewing and understanding the diff of a specific commit!"
     ],
     "status": "Completed"
   }
