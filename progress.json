@@ -501,5 +501,14 @@
       "Expected commit message of 'Add the search feature', got 'add' instead."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787530179.936614,
+    "completed_at": 1787530187.076956,
+    "comments": [
+      "Expected commit message of 'Add the search feature', got 'add' instead."
+    ],
+    "status": "Incomplete"
   }
 ]
